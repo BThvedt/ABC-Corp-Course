@@ -24,5 +24,3 @@ jobs:
           # --acl public-read makes your files publicly readable (make sure your bucket settings are also set to public).
           # --follow-symlink
           # Most importantly, --delete permanently deletes files in the S3 bucket that are not present in the latest version of your repository/build.
-
-          # key: AKIAXCJQZSX3UCFL3I5P secret key: xMNUavJIPKilbTc2dPqHz7gDnKmYIjRc3G+HpB+D
