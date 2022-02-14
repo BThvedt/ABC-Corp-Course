@@ -1,0 +1,11 @@
+((typeof self !== 'undefined' ? self : this)["webpackJsonpModule"] = (typeof self !== 'undefined' ? self : this)["webpackJsonpModule"] || []).push([[12],{
+
+/***/ "92e6":
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"prompts\":{\"e_selectEachPhase\":\"e2134906-0ed6-4fb7-b822-31a0e37aebb8\",\"e_completed\":\"0a890007-7999-42f3-a070-dace927b3ca4\",\"e_dragInstructions\":\"8f7f29af-63f1-4034-9154-fa593f9bc133\",\"e_iconDragInstructions\":\"441b1bbe-57af-4d43-bfdc-b3573432d5e3\"},\"dragData\":[{\"e_text\":\"9b58ca90-8cbd-4bbc-8c2e-9aac0f2810b5\",\"data\":0},{\"e_text\":\"956283c8-75fd-4fd9-b230-896e4ec7054e\",\"data\":1},{\"e_text\":\"c79367da-ec00-4052-bd63-b0e7896be7ec\",\"data\":2},{\"e_text\":\"9db682ef-9922-4840-9dcb-41b180ed832c\",\"data\":3},{\"e_text\":\"90ff4385-8a88-41e9-82c5-1965f231d4ed\",\"data\":4}],\"iconDataArr\":[{\"icon\":\"credit-card\",\"e_html\":\"971c8502-06b0-44f3-a4e8-d94e398aa2d9\"},{\"icon\":\"suitcase\",\"e_html\":\"cf4a5ee1-c3bb-487d-9c3e-33c39e7f2abe\"},{\"icon\":\"recycle\",\"e_html\":\"1ffc0c74-e9de-4c05-bb6c-91ed50aee871\"},{\"icon\":\"balance-scale\",\"e_html\":\"031c042c-4d23-4bc4-96c7-4b5e6a6f715f\"},{\"icon\":\"rocket\",\"e_html\":\"bf45e0a3-013c-4b64-8730-a058a7d9ef1a\"}],\"clickRevealData\":[{\"item\":\"discover\",\"icon\":\"credit-card\",\"e_title\":\"ce8b22ed-72c3-48a1-9aea-53dbc679714b\",\"e_html\":\"ca1f3ba8-89e0-4b44-9427-e4c8a2281494\"},{\"item\":\"build-buisiness-case\",\"icon\":\"suitcase\",\"e_title\":\"460db60d-66c4-4b6e-9254-fe050638a733\",\"e_html\":\"a00a1e74-c5cc-4290-a246-7c38916aa3f2\"},{\"item\":\"development\",\"icon\":\"recycle\",\"e_title\":\"a40e8b23-2e6e-47dd-9a11-4a8fbce68f7b\",\"e_html\":\"a3a27885-832e-4828-a1c3-5247810f5d67\"},{\"item\":\"scale-Up\",\"icon\":\"balance-scale\",\"e_title\":\"204e2489-289a-4937-acc6-105fb55736a0\",\"e_html\":\"7aa20fa4-5096-490d-88d0-71b1b8ea5c58\"},{\"item\":\"launch\",\"icon\":\"rocket\",\"e_title\":\"4a5a5c73-5139-40e5-87e5-fba41ec88623\",\"e_html\":\"acc27da7-dc0d-44f8-851a-26d76fe0d52b\"}]}");
+
+/***/ })
+
+}]);
+//# sourceMappingURL=Module.umd.12.js.map
